@@ -1,14 +1,26 @@
 {
     "name": "fundamentos-ts",
     "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
+    "description": "Exercises of course in Platzi",
+    "main": "src/*",
     "scripts": {
-        "tsc": "npx tsc"
+        "dev": "npx tsc --watch"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "keywords": [
+        "typescript",
+        "javascript",
+        "exercises"
+    ],
+    "author": "efrencodes <efrencodes@gmail.com> (https://efrencodes.com)",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/efrencodes/fundamentos-ts-platzi"
+    },
+    "bugs": {
+        "url": "https://github.com/efrencodes/fundamentos-ts-platzi/issues"
+    },
+    "homepage": "https://github.com/efrencodes/fundamentos-ts-platzi#readme",
     "devDependencies": {
         "typescript": "^4.7.3"
     }
