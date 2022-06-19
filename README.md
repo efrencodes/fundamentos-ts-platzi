@@ -21,3 +21,10 @@ To clone and run this application, you'll need **GIT** and **NodeJS** (which com
   $ npm install
 
 ```
+
+## 📫 How to contact me?
+
+-   ✨ [efrencodes@gmail.com](mailto:efrencodes@gmail.com)
+-   ✨ [www.github.com/efrencodes](https://github.com/efrencodes)
+-   ✨ [www.efrencodes.com](https://www.efrencodes.com/)
+-   ✨ [www.linkedin.com/in/efrencodes](https://www.linkedin.com/in/efrencodes/)
